@@ -1,7 +1,7 @@
 package com.TNSIF.Oops.inheritance;
 
 
-class A{
+class A {
 	void show() {
 	System.out.println("Hello World");
 	}
